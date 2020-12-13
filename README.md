@@ -13,4 +13,4 @@
 ---
 
 <h2 align="left"><i>Captura de tela 📱</i></h2>
-<img src="https://github.com/tavieto/happy-birthday/blob/master/Screenshot_1607895846.png"/>
+<img src="https://github.com/tavieto/happy-birthday/Screenshot_1607895846.png"/>
